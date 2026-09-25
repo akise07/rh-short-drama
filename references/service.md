@@ -9,7 +9,7 @@
 | 项 | 值 |
 |---|---|
 | 服务地址 | `http://127.0.0.1:8282` |
-| 代码位置 | `H:\_Project\Python\AITest\RH_Send\main.py` |
+| 代码位置 | `H:\_Project\Python\AITest\RH_Send\main.py`（本机部署示例，以实际部署为准） |
 | 启动方式 | **由用户手动启动**：`cd H:\_Project\Python\AITest\RH_Send && python main.py` |
 | 落盘目录 | `H:\_Project\Python\AITest\RH_Send\save\<YYYY-MM-DD>\<task_id>.mp4` |
 | 任务映射 | `H:\_Project\Python\AITest\RH_Send\task_map.json`（本地 task_id → 上游 taskId） |
